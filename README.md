@@ -1,10 +1,10 @@
 # Asyrofi-Belajar-Python
-#🧾 README — Program Mesin Kasir Sederhana (Python)
+# 🧾 README — Program Mesin Kasir Sederhana (Python)
 
 Program ini adalah studi kasus sederhana untuk latihan pemrograman dasar menggunakan bahasa Python, khususnya fokus pada function, percabangan, dan perulangan.
 Program ini dibuat sebagai tugas mahasiswa untuk memahami cara membangun alur program yang terstruktur dan mudah dibaca.
 
-#🎯 Tujuan Program
+# 🎯 Tujuan Program
 
 Program ini mensimulasikan proses mesin kasir pada toko sederhana (Syro Mart).
 Dengan program ini, kasir dapat:
